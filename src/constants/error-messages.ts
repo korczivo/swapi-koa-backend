@@ -1,0 +1,1 @@
+export const PERSON_NOT_FOUND = 'Person not found!';
